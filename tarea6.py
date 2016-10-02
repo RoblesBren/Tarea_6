@@ -9,4 +9,9 @@ class Autores():
         self.nombres
         self.autores
         self.libros
-        
+
+class Editoriales():
+    def __init__(self):
+        self.libros
+        self.temas
+        self.titulos
